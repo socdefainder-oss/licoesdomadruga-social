@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "2026-11-09_2030_carrossel_direitos-divida",
+    "quando": "2026-11-09 20:30",
+    "tipo": "carrossel",
+    "origem": [
+      "posts/09.11/2030_direitos-divida/saida/2030_direitos-divida_01.png",
+      "posts/09.11/2030_direitos-divida/saida/2030_direitos-divida_02.png",
+      "posts/09.11/2030_direitos-divida/saida/2030_direitos-divida_03.png",
+      "posts/09.11/2030_direitos-divida/saida/2030_direitos-divida_04.png",
+      "posts/09.11/2030_direitos-divida/saida/2030_direitos-divida_05.png",
+      "posts/09.11/2030_direitos-divida/saida/2030_direitos-divida_06.png",
+      "posts/09.11/2030_direitos-divida/saida/2030_direitos-divida_07.png"
+    ],
+    "legenda": "legendas/2026-11-09_2030_carrossel_direitos-divida.txt",
+    "comentario": "Qual desses direitos você não conhecia? Conta aqui 👇"
+  }
+]
