@@ -14,5 +14,82 @@
     ],
     "legenda": "legendas/2026-11-09_2030_carrossel_direitos-divida.txt",
     "comentario": "Qual desses direitos você não conhecia? Conta aqui 👇"
+  },
+  {
+    "id": "2026-11-10_0800_carrossel_demissao",
+    "quando": "2026-11-10 08:00",
+    "tipo": "carrossel",
+    "origem": [
+      "posts/10.11/0800_demissao/saida/0800_demissao_01.png",
+      "posts/10.11/0800_demissao/saida/0800_demissao_02.png",
+      "posts/10.11/0800_demissao/saida/0800_demissao_03.png",
+      "posts/10.11/0800_demissao/saida/0800_demissao_04.png",
+      "posts/10.11/0800_demissao/saida/0800_demissao_05.png",
+      "posts/10.11/0800_demissao/saida/0800_demissao_06.png",
+      "posts/10.11/0800_demissao/saida/0800_demissao_07.png"
+    ],
+    "legenda": "legendas/2026-11-10_0800_carrossel_demissao.txt",
+    "comentario": "Você conhecia a pegadinha do saque-aniversário? 👇"
+  },
+  {
+    "id": "2026-11-10_1000_imagem_doacao-ir",
+    "quando": "2026-11-10 10:00",
+    "tipo": "imagem",
+    "origem": [
+      "posts/10.11/1000_doacao-ir/saida/1000_doacao-ir_01.png"
+    ],
+    "legenda": "legendas/2026-11-10_1000_imagem_doacao-ir.txt",
+    "comentario": "Você já doou parte do seu IR? Conta aqui 👇"
+  },
+  {
+    "id": "2026-11-10_1200_carrossel_mei",
+    "quando": "2026-11-10 12:00",
+    "tipo": "carrossel",
+    "origem": [
+      "posts/10.11/1200_mei/saida/1200_mei_01.png",
+      "posts/10.11/1200_mei/saida/1200_mei_02.png",
+      "posts/10.11/1200_mei/saida/1200_mei_03.png",
+      "posts/10.11/1200_mei/saida/1200_mei_04.png",
+      "posts/10.11/1200_mei/saida/1200_mei_05.png",
+      "posts/10.11/1200_mei/saida/1200_mei_06.png",
+      "posts/10.11/1200_mei/saida/1200_mei_07.png"
+    ],
+    "legenda": "legendas/2026-11-10_1200_carrossel_mei.txt",
+    "comentario": "Você é MEI ou pensa em abrir? 👇"
+  },
+  {
+    "id": "2026-11-10_1500_imagem_tarifa-social",
+    "quando": "2026-11-10 15:00",
+    "tipo": "imagem",
+    "origem": [
+      "posts/10.11/1500_tarifa-social/saida/1500_tarifa-social_01.png"
+    ],
+    "legenda": "legendas/2026-11-10_1500_imagem_tarifa-social.txt",
+    "comentario": "Marca alguém que precisa saber disso 👇"
+  },
+  {
+    "id": "2026-11-10_1800_carrossel_pai-de-familia",
+    "quando": "2026-11-10 18:00",
+    "tipo": "carrossel",
+    "origem": [
+      "posts/10.11/1800_pai-de-familia/saida/1800_pai-de-familia_01.png",
+      "posts/10.11/1800_pai-de-familia/saida/1800_pai-de-familia_02.png",
+      "posts/10.11/1800_pai-de-familia/saida/1800_pai-de-familia_03.png",
+      "posts/10.11/1800_pai-de-familia/saida/1800_pai-de-familia_04.png",
+      "posts/10.11/1800_pai-de-familia/saida/1800_pai-de-familia_05.png",
+      "posts/10.11/1800_pai-de-familia/saida/1800_pai-de-familia_06.png"
+    ],
+    "legenda": "legendas/2026-11-10_1800_carrossel_pai-de-familia.txt",
+    "comentario": "Qual desses você não sabia? 👇"
+  },
+  {
+    "id": "2026-11-10_2000_imagem_compra-online",
+    "quando": "2026-11-10 20:00",
+    "tipo": "imagem",
+    "origem": [
+      "posts/10.11/2000_compra-online/saida/2000_compra-online_01.png"
+    ],
+    "legenda": "legendas/2026-11-10_2000_imagem_compra-online.txt",
+    "comentario": "Você já devolveu uma compra online? 👇"
   }
 ]
