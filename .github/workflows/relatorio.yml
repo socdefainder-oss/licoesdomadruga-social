@@ -1,0 +1,26 @@
+name: Relatorio de desempenho
+
+# Roda todo dia as 23h30 (Brasilia) e sob demanda. O relatorio fica no log e como artefato.
+on:
+  schedule:
+    - cron: "30 2 * * *"
+  workflow_dispatch:
+
+jobs:
+  relatorio:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - name: Gerar relatorio
+        run: python relatorio.py
+        env:
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+      - uses: actions/upload-artifact@v4
+        with:
+          name: relatorio
+          path: relatorio.md
+          retention-days: 30
